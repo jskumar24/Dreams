@@ -1,0 +1,14 @@
+
+koli1.txt
+mad1.txt
+mad2.txt
+ram1.txt
+test.txt
+test1.txt
+
+koli1.txt
+mad1.txt
+mad2.txt
+ram1.txt
+test.txt
+test1.txt
